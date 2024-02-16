@@ -1,0 +1,372 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+button {
+
+    width: 173px;
+    height: 48px;
+    border-radius: 24px;
+    box-shadow: 10px 10px 25px -10px rgba(54, 83, 107, 0.25);
+    background: rgb(186, 66, 112);
+
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 45px 165px;
+}
+
+nav {
+    display: flex;
+    gap: 20px;
+}
+
+.content__rayt {
+    display: flex;
+    gap: 40px;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(54, 83, 107);
+    font-family: Public Sans;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 18px;
+
+}
+
+.it h1 {
+    width: 546px;
+    color: rgb(54, 83, 107);
+    font-family: DM Serif Display;
+    font-size: 72px;
+    font-weight: 400;
+    line-height: 72px;
+    letter-spacing: -0.55px;
+    text-align: left;
+}
+
+.it {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+main {
+    padding: 30px 165px;
+}
+
+.fon {
+
+    width: 1500px;
+    height: 472px;
+    background: rgb(27, 38, 47);
+}
+
+.fon h1 {
+
+    width: 445px;
+    height: 56px;
+    color: rgb(251, 252, 254);
+    font-family: DM Serif Display;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 56px;
+    letter-spacing: -0.37px;
+    text-align: left;
+}
+
+.fon p {
+
+    width: 445px;
+    height: 112px;
+    color: rgb(251, 252, 254);
+    font-family: Public Sans;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0px;
+
+
+}
+
+.fon button {
+
+    width: 129px;
+    height: 48px;
+    box-sizing: border-box;
+    border: 1px solid rgb(251, 252, 254);
+    border-radius: 24px;
+    background: rgb(27, 38, 47);
+    color: aliceblue;
+
+}
+
+.logo img {
+   
+    width: 536px;
+    height: 103px;
+    left: 741px;
+  
+ 
+}
+.fon{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 105px 111px;
+}
+
+
+@media screen and (max-width:576px) {
+   
+   
+    header {
+        flex-direction: column;
+        
+    }
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
